@@ -2,5 +2,5 @@ name: HypixelParticleAPI
 main: com.funergy.particleapi
 version: 1.0.0
 author: Funergy
-description: A Hypixel Particle api to show up the best particles for networks!
+description: A Hypixel Particle api to execute the best particle animations around and above the player!
 
